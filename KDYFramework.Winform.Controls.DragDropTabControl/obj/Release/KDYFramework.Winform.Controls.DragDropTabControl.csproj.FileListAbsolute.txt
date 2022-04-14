@@ -1,0 +1,15 @@
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.dll
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.DragDropTabForm.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.csproj.GenerateResource.Cache
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.dll
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.csprojResolveAssemblyReference.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.dll
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.pdb
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.csproj.AssemblyReference.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.DragDropTabForm.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.csproj.GenerateResource.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.dll
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\KDYFramework.Winform.Controls.DragDropTabControl\obj\Release\KDYFramework.Winform.Controls.DragDropTabControl.pdb

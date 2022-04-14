@@ -1,0 +1,782 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59ABCEDB-E390-4974-A9E3-1A4D529E4D73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Demo</RootNamespace>
+    <AssemblyName>Demo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="bcmail-jdk15-1.44, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\bcmail-jdk15-1.44.dll</HintPath>
+    </Reference>
+    <Reference Include="bcprov-jdk15-1.44, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\bcprov-jdk15-1.44.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="commons-logging, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\commons-logging.dll</HintPath>
+    </Reference>
+    <Reference Include="fontbox-1.8.2, Version=1.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\fontbox-1.8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="HTMLEditor">
+      <HintPath>C:\Users\MTPC4-01\Documents\HTML Editor .NET for Winforms 2.3.2.283\fx472\HTMLEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.TextEditor, Version=3.2.1.6466, Culture=neutral, PublicKeyToken=4d61825e8dd49f1a, processorArchitecture=MSIL">
+      <HintPath>..\packages\ICSharpCode.TextEditor.3.2.1.6466\lib\Net20\ICSharpCode.TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="icu4j-3.8, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\icu4j-3.8.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Beans, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Beans.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Charsets, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Charsets.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Corba, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Corba.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Core, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Jdbc, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Jdbc.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Management, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Media, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Media.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Misc, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Misc.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Naming, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Naming.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Remoting, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Remoting.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Security, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.SwingAWT, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.SwingAWT.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Text, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Util, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.XML.API, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.OpenJDK.XML.API.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.Runtime, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.Runtime.JNI, Version=7.2.4630.5, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\IKVM.Runtime.JNI.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.pdfa.5.5.13.2\lib\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xtra.5.5.13.2\lib\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="jempbox-1.8.2, Version=1.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\jempbox-1.8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="junit, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\junit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MonAgentListener, Version=33.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Nevron.Nov.Barcode, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Chart, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Diagram, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Grid, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Host.WinForm, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Presentation, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Schedule, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.Text, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Nevron.Nov.WinFormControls, Version=22.2.11.12, Culture=neutral, PublicKeyToken=b33b1a04bb5ca8ad" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.21.5.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="pdfbox-1.8.2, Version=1.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Pdfbox.1.1.1\lib\pdfbox-1.8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Client.Designer, Version=2022.1.6.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL" />
+    <Reference Include="Stimulsoft.Client.Designer.Design, Version=2022.1.6.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Addcheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addcheck.Designer.cs">
+      <DependentUpon>Addcheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDepartmentsADd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDepartmentsADd.Designer.cs">
+      <DependentUpon>AddDepartmentsADd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddInfo.Designer.cs">
+      <DependentUpon>AddInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Additionalgreetings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Additionalgreetings.Designer.cs">
+      <DependentUpon>Additionalgreetings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddjicchaekForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddjicchaekForm.Designer.cs">
+      <DependentUpon>AddjicchaekForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddrankState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddrankState.Designer.cs">
+      <DependentUpon>AddrankState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddregForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddregForm.Designer.cs">
+      <DependentUpon>AddregForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddressForm.Designer.cs">
+      <DependentUpon>AddressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankSearch.Designer.cs">
+      <DependentUpon>BankSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Certificateissuancestatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Certificateissuancestatus.Designer.cs">
+      <DependentUpon>Certificateissuancestatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Certificateissued.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Certificateissued.Designer.cs">
+      <DependentUpon>Certificateissued.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Certificatemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Certificatemanagement.Designer.cs">
+      <DependentUpon>Certificatemanagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeNum.Designer.cs">
+      <DependentUpon>ChangeNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checkgreetingcard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkgreetingcard.Designer.cs">
+      <DependentUpon>Checkgreetingcard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classificationofgreetings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classificationofgreetings.Designer.cs">
+      <DependentUpon>Classificationofgreetings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CodeAddForm.Designer.cs">
+      <DependentUpon>CodeAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Currentstatusofthenumberofpeople.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Currentstatusofthenumberofpeople.Designer.cs">
+      <DependentUpon>Currentstatusofthenumberofpeople.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departmentcodemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departmentcodemanagement.Designer.cs">
+      <DependentUpon>Departmentcodemanagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentSearch.Designer.cs">
+      <DependentUpon>DepartmentSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="Employmenttypecode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employmenttypecode.Designer.cs">
+      <DependentUpon>Employmenttypecode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Experienceinformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Experienceinformation.Designer.cs">
+      <DependentUpon>Experienceinformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="femilystate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="femilystate.Designer.cs">
+      <DependentUpon>femilystate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Foreignlanguageskills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Foreignlanguageskills.Designer.cs">
+      <DependentUpon>Foreignlanguageskills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GreetingaddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GreetingaddForm.Designer.cs">
+      <DependentUpon>GreetingaddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Greetinglist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Greetinglist.Designer.cs">
+      <DependentUpon>Greetinglist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GreetingStatecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GreetingStatecs.Designer.cs">
+      <DependentUpon>GreetingStatecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupCode.Designer.cs">
+      <DependentUpon>GroupCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupcodeSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupcodeSearch.Designer.cs">
+      <DependentUpon>GroupcodeSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfochangState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfochangState.Designer.cs">
+      <DependentUpon>InfochangState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LicenseState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LicenseState.Designer.cs">
+      <DependentUpon>LicenseState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jobcodemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jobcodemanagement.Designer.cs">
+      <DependentUpon>Jobcodemanagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainView.designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="motice.cs" />
+    <Compile Include="Newprinet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Newprinet.Designer.cs">
+      <DependentUpon>Newprinet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonnelbasicsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonnelbasicsForm.Designer.cs">
+      <DependentUpon>PersonnelbasicsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personnelcodemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personnelcodemanagement.Designer.cs">
+      <DependentUpon>Personnelcodemanagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Positioncodemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Positioncodemanagement.Designer.cs">
+      <DependentUpon>Positioncodemanagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintForm.Designer.cs">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RankSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RankSearch.Designer.cs">
+      <DependentUpon>RankSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REgsteate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REgsteate.Designer.cs">
+      <DependentUpon>REgsteate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewardandpunishment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rewardandpunishment.Designer.cs">
+      <DependentUpon>Rewardandpunishment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchoolState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SchoolState.Designer.cs">
+      <DependentUpon>SchoolState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchHnumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchHnumForm.Designer.cs">
+      <DependentUpon>SearchHnumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statisticsofpeople.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statisticsofpeople.Designer.cs">
+      <DependentUpon>Statisticsofpeople.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Addcheck.resx">
+      <DependentUpon>Addcheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDepartmentsADd.resx">
+      <DependentUpon>AddDepartmentsADd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddInfo.resx">
+      <DependentUpon>AddInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Additionalgreetings.resx">
+      <DependentUpon>Additionalgreetings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddjicchaekForm.resx">
+      <DependentUpon>AddjicchaekForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddrankState.resx">
+      <DependentUpon>AddrankState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddregForm.resx">
+      <DependentUpon>AddregForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddressForm.resx">
+      <DependentUpon>AddressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankSearch.resx">
+      <DependentUpon>BankSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Certificateissuancestatus.resx">
+      <DependentUpon>Certificateissuancestatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Certificateissued.resx">
+      <DependentUpon>Certificateissued.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Certificatemanagement.resx">
+      <DependentUpon>Certificatemanagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeNum.resx">
+      <DependentUpon>ChangeNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checkgreetingcard.resx">
+      <DependentUpon>Checkgreetingcard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classificationofgreetings.resx">
+      <DependentUpon>Classificationofgreetings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CodeAddForm.resx">
+      <DependentUpon>CodeAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Currentstatusofthenumberofpeople.resx">
+      <DependentUpon>Currentstatusofthenumberofpeople.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departmentcodemanagement.resx">
+      <DependentUpon>Departmentcodemanagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentSearch.resx">
+      <DependentUpon>DepartmentSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employmenttypecode.resx">
+      <DependentUpon>Employmenttypecode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Experienceinformation.resx">
+      <DependentUpon>Experienceinformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="femilystate.resx">
+      <DependentUpon>femilystate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Foreignlanguageskills.resx">
+      <DependentUpon>Foreignlanguageskills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GreetingaddForm.resx">
+      <DependentUpon>GreetingaddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Greetinglist.resx">
+      <DependentUpon>Greetinglist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GreetingStatecs.resx">
+      <DependentUpon>GreetingStatecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupCode.resx">
+      <DependentUpon>GroupCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupcodeSearch.resx">
+      <DependentUpon>GroupcodeSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfochangState.resx">
+      <DependentUpon>InfochangState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jobcodemanagement.resx">
+      <DependentUpon>Jobcodemanagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LicenseState.resx">
+      <DependentUpon>LicenseState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newprinet.resx">
+      <DependentUpon>Newprinet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonnelbasicsForm.resx">
+      <DependentUpon>PersonnelbasicsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personnelcodemanagement.resx">
+      <DependentUpon>Personnelcodemanagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Positioncodemanagement.resx">
+      <DependentUpon>Positioncodemanagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintForm.resx">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RankSearch.resx">
+      <DependentUpon>RankSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REgsteate.resx">
+      <DependentUpon>REgsteate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewardandpunishment.resx">
+      <DependentUpon>Rewardandpunishment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchoolState.resx">
+      <DependentUpon>SchoolState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchHnumForm.resx">
+      <DependentUpon>SearchHnumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statisticsofpeople.resx">
+      <DependentUpon>Statisticsofpeople.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\certificate_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron_down_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevron_down_24px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_15px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_15px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scorecard_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistics_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test_passed_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toggle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu2-001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgot_password_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목-없음-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_24px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\writer_male_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_user_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\licence_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plot_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_20px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\인사코드관리배너-001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\부서코드관리-001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\직급코드관리-001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\직책코드관리-001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrative_tools_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_moon_12px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_moon_12px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\캡처.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목-없음-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_16px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down_button_24px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

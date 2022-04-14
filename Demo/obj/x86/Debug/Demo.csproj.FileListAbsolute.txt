@@ -1,0 +1,217 @@
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Debug\Demo.exe
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Debug\Demo.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Debug\KDYFramework.Winform.Controls.DragDropTabControl.dll
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Debug\KDYFramework.Winform.Controls.DragDropTabControl.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.exe
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.MainView.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.MDIView.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Debug\Demo.TestView.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AllcodeRead.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Certificatemanagement.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Checkuserinformation.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.CodeAddForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Departmentcodemanagement.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Jobcodemanagement.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.LoginForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.MainView.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Personnelcodemanagement.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Positioncodemanagement.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.exe
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\Demo.exe
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\Demo.pdb
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.PersonnelbasicsForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.csproj.CopyComplete
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.femilystate.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Rewardandpunishment.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.SchoolState.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Experienceinformation.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Foreignlanguageskills.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.LicenseState.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Greetinglist.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.GreetingaddForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.SearchHnumForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AddInfo.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.ChangeNum.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.InfochangState.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AddDepartmentsADd.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.DepartmentSearch.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AddrankState.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.RankSearch.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Addcheck.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AddjicchaekForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.BankSearch.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AddressForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.AddregForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.REgsteate.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Additionalgreetings.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Classificationofgreetings.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Checkgreetingcard.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.GreetingStatecs.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\itextsharp.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\itextsharp.pdfa.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\itextsharp.xtra.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\itextsharp.xml
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\commons-logging.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\fontbox-1.8.2.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\icu4j-3.8.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.Runtime.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\jempbox-1.8.2.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\junit.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.PrintForm.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Employmenttypecode.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Certificateissued.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Newprinet.resources
+C:\Users\MTPC4-01\Desktop\Myerpsystem\Demo\obj\x86\Debug\Demo.Certificateissuancestatus.resources
+D:\Myerpsystem (3)\Demo\bin\Debug\Demo.exe
+D:\Myerpsystem (3)\Demo\bin\Debug\Demo.pdb
+D:\Myerpsystem (3)\Demo\bin\Debug\bcmail-jdk15-1.44.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\bcprov-jdk15-1.44.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\BouncyCastle.Crypto.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\commons-logging.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\fontbox-1.8.2.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\icu4j-3.8.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.Runtime.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\itextsharp.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\itextsharp.pdfa.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\itextsharp.xtra.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\jempbox-1.8.2.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\junit.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\pdfbox-1.8.2.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\itextsharp.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\Newtonsoft.Json.xml
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Addcheck.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.AddDepartmentsADd.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.AddInfo.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Additionalgreetings.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.AddjicchaekForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.AddrankState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.AddregForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.AddressForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.BankSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Certificateissuancestatus.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Certificateissued.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Certificatemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.ChangeNum.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Checkgreetingcard.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Classificationofgreetings.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.CodeAddForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Departmentcodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.DepartmentSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Employmenttypecode.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Experienceinformation.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.femilystate.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Foreignlanguageskills.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.GreetingaddForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Greetinglist.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.GreetingStatecs.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.InfochangState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Jobcodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.LicenseState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.LoginForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.MainView.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Newprinet.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.PersonnelbasicsForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Personnelcodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Positioncodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.PrintForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.RankSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.REgsteate.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Rewardandpunishment.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.SchoolState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.SearchHnumForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.cache
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.csproj.CopyComplete
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.exe
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.pdb
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Currentstatusofthenumberofpeople.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.Statisticsofpeople.resources
+D:\Myerpsystem (3)\Demo\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\MonAgentListener.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Demo.exe.config
+D:\Myerpsystem (3)\Demo\bin\Debug\HTMLEditor.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Client.Designer.Design.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Client.Designer.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Collections.Immutable.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Report.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Base.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Report.Wpf.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Editor.Wpf.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Report.Check.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Report.Helper.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Stimulsoft.Data.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Memory.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Numerics.Vectors.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Buffers.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\ko\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\ko\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Text.Json.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\System.ValueTuple.dll
+D:\Myerpsystem (3)\Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Buffers.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Memory.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Numerics.Vectors.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Text.Encodings.Web.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Text.Json.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Myerpsystem (3)\Demo\bin\Debug\System.ValueTuple.xml
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.GroupCode.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.GroupcodeSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Debug\Demo.csproj.AssemblyReference.cache

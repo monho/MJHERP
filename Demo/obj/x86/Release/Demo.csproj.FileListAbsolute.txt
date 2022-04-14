@@ -1,0 +1,161 @@
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\Demo.exe
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\Demo.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.dll
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.pdb
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.csprojResolveAssemblyReference.cache
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.MDIView.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.MainView.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Properties.Resources.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.TestView.resources
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.csproj.GenerateResource.Cache
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.exe
+E:\KDY\Source\Framework\Winform\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.pdb
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\Demo.exe
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\Demo.pdb
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.dll
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\bin\Release\KDYFramework.Winform.Controls.DragDropTabControl.pdb
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.csproj.AssemblyReference.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.MDIView.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.MainView.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Properties.Resources.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.TestView.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.csproj.GenerateResource.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.csproj.CopyComplete
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.exe
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.pdb
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Personnelrecordmanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.BasicPersonnelInfo.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Certificatemanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Personnelchangemanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Personnelstatistics.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Workevaluation.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.MainPage.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Checkuserinformation.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.LoginForm.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Jobcodemanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Personnelcodemanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Positioncodemanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.Departmentcodemanagement.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.CodeAddForm.resources
+C:\Users\MTPC4-01\Downloads\KDYFramework.Winform.Controls.DragDropTabControl\Demo\obj\x86\Release\Demo.AllcodeRead.resources
+D:\Myerpsystem (3)\Demo\bin\Release\Demo.exe.config
+D:\Myerpsystem (3)\Demo\bin\Release\Demo.exe
+D:\Myerpsystem (3)\Demo\bin\Release\Demo.pdb
+D:\Myerpsystem (3)\Demo\bin\Release\bcmail-jdk15-1.44.dll
+D:\Myerpsystem (3)\Demo\bin\Release\bcprov-jdk15-1.44.dll
+D:\Myerpsystem (3)\Demo\bin\Release\BouncyCastle.Crypto.dll
+D:\Myerpsystem (3)\Demo\bin\Release\commons-logging.dll
+D:\Myerpsystem (3)\Demo\bin\Release\fontbox-1.8.2.dll
+D:\Myerpsystem (3)\Demo\bin\Release\HTMLEditor.dll
+D:\Myerpsystem (3)\Demo\bin\Release\ICSharpCode.TextEditor.dll
+D:\Myerpsystem (3)\Demo\bin\Release\icu4j-3.8.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Beans.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Charsets.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Corba.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Core.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Jdbc.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Management.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Media.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Misc.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Naming.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Remoting.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Security.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Text.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.Util.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.OpenJDK.XML.API.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.Runtime.dll
+D:\Myerpsystem (3)\Demo\bin\Release\IKVM.Runtime.JNI.dll
+D:\Myerpsystem (3)\Demo\bin\Release\itextsharp.dll
+D:\Myerpsystem (3)\Demo\bin\Release\itextsharp.pdfa.dll
+D:\Myerpsystem (3)\Demo\bin\Release\itextsharp.xtra.dll
+D:\Myerpsystem (3)\Demo\bin\Release\jempbox-1.8.2.dll
+D:\Myerpsystem (3)\Demo\bin\Release\junit.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Myerpsystem (3)\Demo\bin\Release\MonAgentListener.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Newtonsoft.Json.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Myerpsystem (3)\Demo\bin\Release\pdfbox-1.8.2.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Client.Designer.Design.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Client.Designer.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Buffers.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Memory.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Numerics.Vectors.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Text.Encodings.Web.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Text.Json.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.ValueTuple.dll
+D:\Myerpsystem (3)\Demo\bin\Release\System.Collections.Immutable.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Report.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Base.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Report.Wpf.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Editor.Wpf.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Report.Check.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Report.Helper.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Stimulsoft.Data.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Myerpsystem (3)\Demo\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Myerpsystem (3)\Demo\bin\Release\itextsharp.xml
+D:\Myerpsystem (3)\Demo\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Myerpsystem (3)\Demo\bin\Release\Newtonsoft.Json.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Buffers.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Memory.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Numerics.Vectors.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Text.Encodings.Web.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Text.Json.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Myerpsystem (3)\Demo\bin\Release\System.ValueTuple.xml
+D:\Myerpsystem (3)\Demo\bin\Release\ko\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Myerpsystem (3)\Demo\bin\Release\ko\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.csproj.AssemblyReference.cache
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Addcheck.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.AddDepartmentsADd.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.AddInfo.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Additionalgreetings.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.AddjicchaekForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.AddrankState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.AddregForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.AddressForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.BankSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Certificateissuancestatus.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Certificateissued.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Certificatemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.ChangeNum.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Checkgreetingcard.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Classificationofgreetings.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.CodeAddForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Currentstatusofthenumberofpeople.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Departmentcodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.DepartmentSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Employmenttypecode.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Experienceinformation.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.femilystate.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Foreignlanguageskills.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.GreetingaddForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Greetinglist.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.GreetingStatecs.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.InfochangState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Jobcodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.LicenseState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.LoginForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.MainView.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Newprinet.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.PersonnelbasicsForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Personnelcodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Positioncodemanagement.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.PrintForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Properties.Resources.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.RankSearch.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.REgsteate.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Rewardandpunishment.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.SchoolState.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.SearchHnumForm.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.Statisticsofpeople.resources
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.csproj.GenerateResource.cache
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.csproj.CoreCompileInputs.cache
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.csproj.CopyComplete
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.exe
+D:\Myerpsystem (3)\Demo\obj\x86\Release\Demo.pdb
