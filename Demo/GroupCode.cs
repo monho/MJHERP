@@ -26,8 +26,8 @@ namespace Demo
         }
         private void GroupCode_Load(object sender, EventArgs e)
         {
-            string connectString = "Data Source=222.237.134.74:1522/ora7;User Id=edu;Password=edu1234";
-            //            string connectString = "Data Source=218.236.176.6:1521/ora7;User Id=charm_user;Password=bsks1004";
+            string connectString = "Data Source=/ora7;User Id=;Password=";
+            //            string connectString = "Data Source=.../;User Id=charm_user;Password=";
             con = new OracleConnection(connectString);
             con.Open();
             this.dataGridView2.DefaultCellStyle.ForeColor = Color.Black;
@@ -208,7 +208,7 @@ namespace Demo
             //label7.Visible = false;
             //Button.ForeColor = sender.enabled == false ? Color.Blue : Color.Red;
         }
-        private string _strConn = "Data Source=222.237.134.74:1522/Ora7;User Id=edu;Password=edu1234;";
+        private string _strConn = ";";
 
         private void Updatedate()
         {
