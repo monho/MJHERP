@@ -42,8 +42,8 @@ namespace Demo
         private void Employmenttypecode_Load(object sender, EventArgs e)
         {
             CD_GRPCD.Text = Passvalue;
-            string connectString = "Data Source=222.237.134.74:1522/ora7;User Id=edu;Password=edu1234";
-            //            string connectString = "Data Source=218.236.176.6:1521/ora7;User Id=charm_user;Password=bsks1004";
+            string connectString = "Data Source=/;User Id=;Password=";
+            //            string connectString = "Data Source=...6:/;User Id=charm_user;Password=";
             con = new OracleConnection(connectString);
             con.Open();
             this.dataGridView2.DefaultCellStyle.ForeColor = Color.Black;
@@ -218,7 +218,7 @@ namespace Demo
 
 
         }
-        private string _strConn = "Data Source=222.237.134.74:1522/Ora7;User Id=edu;Password=edu1234;";
+        private string _strConn = "Data Source=...:/;User Id=;Password=;";
 
 
         private void reload() {
